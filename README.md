@@ -1,5 +1,8 @@
 # first_project
+
 ## Introduction
 this is my project
-## Author
+
+## Authors
 nzq
+lisi
