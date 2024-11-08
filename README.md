@@ -4,5 +4,5 @@
 this is my project
 
 ## Authors
-nzq
-lisi
+* nzq
+* lisi
