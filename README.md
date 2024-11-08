@@ -1,7 +1,7 @@
 # first_project
 
 ## Introduction
-this is my project
+This is my first project
 
 ## Authors
 * nzq
