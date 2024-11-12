@@ -6,3 +6,4 @@ This is my first project
 ## Authors
 * nzq
 * lisi
+* wangwu
